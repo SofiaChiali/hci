@@ -4,7 +4,7 @@
 ### Αριθμός Μητρώου: Π2018204
 ### Προσωπικό Github προφίλ: [SofiaChiali](https://github.com/SofiaChiali)
 ### Ομάδα: [A-ST4R](https://github.com/A-ST4R) :sparkles:
-### Edpuzzle Username: p18chia Π2018204
+### Edpuzzle Username: p18chia Π2018204 / new_p18chia Π2018204
 
 <br />
 
