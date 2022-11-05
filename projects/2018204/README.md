@@ -14,7 +14,7 @@
 | --- | --- | --- | --- |
 | 1 | Εισαγωγή | [Ανάρτηση Εισαγωγής στο Discussions](https://github.com/courses-ionio/help/discussions/886) | |
 | 2 | Άσκηση γραμμής εντολών (linux install) | [Asciinema record](https://asciinema.org/a/NICWUYSGeDZfudUO7Wsnb6O8o) | |
-| 3 | Συμμετοχικό περιεχόμενο A1 | [Ανάρτηση εικόνων και περιγραφών](https://github.com/courses-ionio/help/discussions/1236#discussion-4497487) | |
+| 3 | Συμμετοχικό περιεχόμενο A1 | [Ανάρτηση,](https://github.com/courses-ionio/help/discussions/1236#discussion-4497487)[ Νetlify(1)](https://melodic-malasada-eef077.netlify.app/gallery/lisa-macintosh/) | |
 | 4 | Άσκηση γραμμής εντολών (warm up cli) | | |
 | 5 | Συμμετοχικό περιεχόμενο A2 | | |
 | 6 | Κατασκευή του βιβλίου Α | | |
